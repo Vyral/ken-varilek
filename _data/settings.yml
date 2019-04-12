@@ -53,12 +53,12 @@ lender:
   headshot_path: /img/lenderheadshot.jpg
   logo_path: /img/lenderlogo.jpg
   name: Luke Pickel
-  license_number:
+  license_number: NMLS 143399
   company: Buiness Development
   company_license_number:
   phone: 484-515-1015-1015
   email: lpickel@financeofamerica.com
-  url:
+  url: https://FOAmortgage.com/lpickel
 
 socials:
   review_sm_icons: false
