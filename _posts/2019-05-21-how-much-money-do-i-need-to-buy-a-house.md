@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Much Money Do I Need to Buy a House?
-date: 2019-05-21 19:56:25
+date: 2019-05-21 19:56:00
 tags:
   - Home Buyer Tips
 excerpt: >-
