@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Much Money Do I Need to Buy a House?
+title: How Much Money Do You Need to Buy a House?
 date: 2019-05-21 19:56:00
 tags:
   - Home Buyer Tips
@@ -19,9 +19,9 @@ youtube_code: 7AqTkdqHMGA
 
 {% include youtube.html %}
 
-Today I’m answering a question that I hear constantly from my clients, “How much money do I need to buy a house?” To break it down for you, I’ll use an example of a $200,000 house with approximately $4,500 in taxes for our example today.&nbsp;
+Today I’m answering a question that I hear constantly from my clients: “How much money do I need to buy a house?” To break it down for you, I’ll use an example of a $200,000 house with approximately $4,500 in taxes.&nbsp;
 
-**The biggest cost associated with purchasing a house is the down payment, which can be anywhere from nothing up until 20%.** You’ll also have to budget in title insurance, which would cost around $1,500 for this kind of home. This ensures that you get a clean deed.
+**The biggest cost associated with purchasing a house is the down payment, which can be anywhere from nothing up to 20%.** You’ll also have to budget for title insurance, which would cost around $1,500 for this kind of home. This ensures that you get a clean deed.
 
 {% include pullquote.html %}
 
