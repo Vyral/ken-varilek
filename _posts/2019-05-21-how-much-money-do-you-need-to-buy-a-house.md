@@ -8,13 +8,13 @@ excerpt: >-
   How much do you need to save up in order to buy a home? Here’s a rough
   estimate.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Ken+Varilek/Lehigh+Valley+Real+Estate-+How+Much+Money+Do+I+Need+to+Buy+a+House_.mp4
+  https://s3.amazonaws.com/vyralmarketing/Ken+Varilek/Lehigh+Valley+Real+Estate-+How+Much+Money+Do+You+Need+to+Buy+a+House_.mp4
 pullquote: A transfer tax is typically split between buyer and seller.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/a-better-idea-of-the-cost-of-homeownership-yt.jpg
-youtube_code: 7AqTkdqHMGA
+youtube_code: day5QdaNBLs
 ---
 
 {% include youtube.html %}
